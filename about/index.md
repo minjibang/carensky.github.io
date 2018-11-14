@@ -17,10 +17,25 @@ comments: false
 * BootStrap
 * Ajax
 
-## Programming Language, Skills
+## Database, Server
 * Oracle
 * MariaDB
+* ANSI SQL
+* DB modeling
+* Tomcat
 
+## Framework
+* Spring
+* Mybatis
+* Tiles
+
+## Developer Tool
+* Eclipse
+* Spring Tool Suite
+* Atom
+* Brackets
+* Git
+* SourceTree
 
 ## Preview
 
@@ -34,6 +49,6 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 ## Getting Started
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+Thank you !
       
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
