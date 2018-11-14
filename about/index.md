@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About 정원
+title: About Me
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><b>안녕하세요, 저의 포토폴리오 사이트에 방문해 주셔서 감사합니다</b></center>
+<center><b>안녕하세요, 저의 포토폴리오 사이트에 방문해 주셔서 감사합니다 !</b></center>
 
 ## Programming Language, Skills
 * Java
@@ -51,4 +51,4 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 
 Thank you !
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+
