@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About the 정원
+title: About 정원
 tags: [about, Jekyll, theme, moon]
 date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>안녕하세요,</b></a> 저의 포토폴리오 사이트에 방문해 주셔서 감사합니다</center>
+<center><b>안녕하세요, 저의 포토폴리오 사이트에 방문해 주셔서 감사합니다</b></center>
 
 ## Programming Language, Skills
 * Java
