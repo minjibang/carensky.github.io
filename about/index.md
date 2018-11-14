@@ -6,9 +6,9 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>안녕하세요</b></a> 저의 포토폴리오 사이트에 방문해 주셔서 감사합니다</center>
+<center><a href="http://taylantatli.github.io/Moon"><b>안녕하세요,</b></a> 저의 포토폴리오 사이트에 방문해 주셔서 감사합니다</center>
 
-## Skills
+## Programming Language, Skills
 * Java
 * HTML
 * CSS
@@ -16,6 +16,10 @@ comments: false
 * Jquery
 * BootStrap
 * Ajax
+
+## Programming Language, Skills
+* Oracle
+* MariaDB
 
 
 ## Preview
