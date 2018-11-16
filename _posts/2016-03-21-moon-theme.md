@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-![Moon Homepage]("assets/img/enough.png">)    
+![Moon Homepage](assets/img/enough.png)    
     
 <center><b>Enough</b> is a Second Project.</center>
      
