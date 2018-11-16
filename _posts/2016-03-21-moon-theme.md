@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Second Project"
-date:   2016-04-06
+date:   2018-08-29
 excerpt: "Studying Search System"
 project: true
 tag:
@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-![Moon Homepage](https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png)    
+![Moon Homepage](<img src="">)    
     
 <center><b>Moon</b> is a minimal, one column jekyll theme.</center>
      
