@@ -12,8 +12,8 @@ tag:
 - theme
 comments: true
 ---
+![Moon Twitter Card](https://cloud.githubusercontent.com/assets/img/enough.PNG)
 
-<img src="assets/img/enough.PNG" style="width:100px; height:100px;"/>  
     
 <center><b>Enough</b> is a Second Project.</center>
      
