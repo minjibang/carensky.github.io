@@ -13,7 +13,7 @@ tag:
 comments: true
 ---
 
-![Studying Search System](assets/img/enough.png)    
+![Studying Search System](assets/img/enough.PNG)    
     
 <center><b>Enough</b> is a Second Project.</center>
      
