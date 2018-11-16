@@ -36,7 +36,7 @@ That's all.
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
 
----
+
 
 
 
