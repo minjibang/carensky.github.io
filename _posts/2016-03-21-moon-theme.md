@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Second Project333"
+title:  "Second Project"
 date:   2018-08-29
-excerpt: "Studying Search System222"
+excerpt: "Studying Search System"
 project: true
 tag:
 - jekyll 
