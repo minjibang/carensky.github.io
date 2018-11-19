@@ -27,8 +27,8 @@ tag:
 <br>
 <br>
 
-<img src="{{site.baseurl}}/assets/img/Enough5.PNG" style="width:30%; display:inline;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="{{site.baseurl}}/assets/img/Enough4.PNG" style="width:30%; display:inline;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="{{site.baseurl}}/assets/img/Enough5.PNG" style="width:30%; display:inline;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="{{site.baseurl}}/assets/img/Enough4.PNG" style="width:30%; display:inline;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="{{site.baseurl}}/assets/img/Enough3.PNG" style="width:30%; display:inline;"/>
 
 
