@@ -20,12 +20,12 @@ comments: true
      
 ## 소개
 * 일반회원 / 학생 / 멘토 / 관리자 4개의 권한으로 구성되어 있습니다.
-* Edit `_config.yml` file.
-* Remove sample posts from `_posts` folder and add yours.
-* Edit `index.md` file in `about` folder.
-* Change repo name to `YourUserName.github.io`    
+* 관리자는 모든 회원(멘토, 학생)들을 관리할 수 있습니다.
+* 멘토는 본인의 스터디 그룹을 만들고 스터디 그룹내의 학생들을 관리할 수 있습니다.
+* 학생은 자신이 원하는 스터디를 찾아서 수강할 수 있고, 스터디의 후기를 작성할 수 있습니다.
+* 사용기술 : Jsp, Servlet, Oracle, Apache Tomcat, GoogleMap API, Chart.js 등    
      
-That's all.
+
 
 ## Preview
 
