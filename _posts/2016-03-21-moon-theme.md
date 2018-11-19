@@ -30,9 +30,9 @@ comments: true
 ## Preview
 
 {% capture images %}
-	https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-	https://cloud.githubusercontent.com/assets/754514/14509717/61ad05ae-01d6-11e6-85ae-5a817dd8763b.png
-	https://cloud.githubusercontent.com/assets/754514/14509714/61a89708-01d6-11e6-8fcd-74b002a060df.png
+	<img src="{{site.baseurl}}/assets/img/Enough5.PNG"/>
+	<img src="{{site.baseurl}}/assets/img/Enough4.PNG"/>
+	<img src="{{site.baseurl}}/assets/img/Enough3.PNG"/>
 {% endcapture %}
 {% include gallery images=images caption="Screenshots of Moon Theme" cols=3 %}
 
