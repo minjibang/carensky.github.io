@@ -26,9 +26,9 @@ tag:
 * 사용기술 : Jsp, Servlet, Oracle, Apache Tomcat, GoogleMap API, Chart.js 등    
      
 
-<img src="{{site.baseurl}}/assets/img/Enough5.PNG" style="width:33%;"/>
-<img src="{{site.baseurl}}/assets/img/Enough4.PNG" style="width:33%;"/>
-<img src="{{site.baseurl}}/assets/img/Enough3.PNG" style="width:33%;"/>
+<img src="{{site.baseurl}}/assets/img/Enough5.PNG" style="width:25%;"/>
+<img src="{{site.baseurl}}/assets/img/Enough4.PNG" style="width:25%;"/>
+<img src="{{site.baseurl}}/assets/img/Enough3.PNG" style="width:25%;"/>
 
 
 
