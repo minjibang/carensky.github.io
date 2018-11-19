@@ -10,7 +10,7 @@ tag:
 - blog
 - about
 - theme
-comments: true
+
 ---
 
 <img src="{{site.baseurl}}/assets/img/enough.PNG"/>
