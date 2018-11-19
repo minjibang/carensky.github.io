@@ -26,20 +26,23 @@ tag:
 * 사용기술 : Jsp, Servlet, Oracle, Apache Tomcat, GoogleMap API, Chart.js 등    
 <br>
 <br>
-<br>
 &nbsp;&nbsp;* 회원가입
 <img src="{{site.baseurl}}/assets/img/enough_join.PNG"/>
+<br>
 <br>
 <br>
 &nbsp;&nbsp;* 로그인
 <img src="{{site.baseurl}}/assets/img/enough_login.PNG"/>
 <br>
 <br>
+<br>
 &nbsp;&nbsp;* 스터디 신청
 <img src="{{site.baseurl}}/assets/img/Enough5.PNG"/>
 <br>
 <br>
+<br>
 &nbsp;&nbsp;* 스터디 리뷰
+<br>
 <br>
 <br>
 &nbsp;&nbsp;* 마이페이지
