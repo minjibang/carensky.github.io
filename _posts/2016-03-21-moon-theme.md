@@ -24,7 +24,8 @@ tag:
 * 멘토는 본인의 스터디 그룹을 만들고 스터디 그룹내의 학생들을 관리할 수 있습니다.
 * 학생은 자신이 원하는 스터디를 찾아서 수강할 수 있고, 스터디의 후기를 작성할 수 있습니다.
 * 사용기술 : Jsp, Servlet, Oracle, Apache Tomcat, GoogleMap API, Chart.js 등    
-     
+<br>
+<br>
 
 <img src="{{site.baseurl}}/assets/img/Enough5.PNG" style="width:30%; display:inline;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="{{site.baseurl}}/assets/img/Enough4.PNG" style="width:30%; display:inline;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
