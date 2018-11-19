@@ -8,7 +8,7 @@ comments: false
     
 <center><b>안녕하세요, 저의 포토폴리오 사이트에 방문해 주셔서 감사합니다 !</b></center>
 
-## Programming Language, Skills
+## Programming Language, Skills 서정원 바보
 * Java
 * HTML
 * CSS
