@@ -42,11 +42,11 @@ tag:
 <br>
 <br>
 &nbsp;&nbsp;* 스터디 리뷰
+<img src="{{site.baseurl}}/assets/img/Enough4.PNG"/>
 <br>
 <br>
 <br>
 &nbsp;&nbsp;* 마이페이지
-<img src="{{site.baseurl}}/assets/img/Enough4.PNG"/>
 <img src="{{site.baseurl}}/assets/img/Enough3.PNG"/>
 
 
