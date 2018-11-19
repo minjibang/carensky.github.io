@@ -12,7 +12,7 @@ tag:
 - theme
 
 ---
-
+&nbsp;&nbsp;* 메인페이지
 <img src="{{site.baseurl}}/assets/img/enough.PNG"/>
 
     
@@ -26,10 +26,17 @@ tag:
 * 사용기술 : Jsp, Servlet, Oracle, Apache Tomcat, GoogleMap API, Chart.js 등    
 <br>
 <br>
-
-<img src="{{site.baseurl}}/assets/img/Enough5.PNG" style="width:30%; display:inline;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="{{site.baseurl}}/assets/img/Enough4.PNG" style="width:30%; display:inline;"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="{{site.baseurl}}/assets/img/Enough3.PNG" style="width:30%; display:inline;"/>
+<br>
+&nbsp;&nbsp;* 스터디 신청
+<img src="{{site.baseurl}}/assets/img/Enough5.PNG"/>
+<br>
+<br>
+&nbsp;&nbsp;* 스터디 리뷰
+<br>
+<br>
+&nbsp;&nbsp;* 마이페이지
+<img src="{{site.baseurl}}/assets/img/Enough4.PNG"/>
+<img src="{{site.baseurl}}/assets/img/Enough3.PNG"/>
 
 
 
